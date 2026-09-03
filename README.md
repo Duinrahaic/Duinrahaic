@@ -12,12 +12,6 @@
     I build tools, run communities, and help good projects become easier to use.
   </p>
 
-  <pre>
-  💻 C# / .NET • TypeScript
-  🥽 Practical tools for creators and performers
-  🤝 Open source • Communities • Documentation
-  </pre>
-
   <br>
 
   [![About](https://img.shields.io/badge/01-ABOUT-5D8DE3?style=flat-square)](https://www.duinrahaic.app/#about)
