@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./assets/duin-merusault.png" width="32%" align="left" alt="Illustration of Duin Merusault holding a cup" />
 
-  <img src="./assets/duin-signature.png" width="30%" align="right" alt="Duin's signature" />
+  <img src="./assets/duin-signature.png" width="30%" alt="Duin's signature" />
 
-  <br clear="right">
+  <br>
 
   <h3>VRChat Developer &amp; Community Builder</h3>
 
