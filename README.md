@@ -8,8 +8,7 @@
   <h3>VRChat Developer &amp; Community Builder</h3>
 
   <p>
-    I'm a self-taught developer and community organizer working primarily around VRChat.<br>
-    I build tools, run communities, and help good projects become easier to use.
+    I'm a self-taught developer and community organizer working primarily around VRChat. I build tools, run communities, and help good projects become easier to use.
   </p>
 
   <br>
